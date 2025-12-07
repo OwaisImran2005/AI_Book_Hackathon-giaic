@@ -43,7 +43,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/specifykit/ai-native-book/tree/main/', // Changed to project repo
+            'https://github.com/OwaisImran2005/AI_Book_Hackathon-giaicbook/tree/main/', // Changed to project repo
         },
         blog: {
           showReadingTime: true,
@@ -54,7 +54,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/specifykit/ai-native-book/tree/main/', // Changed to project repo
+            'https://github.com/OwaisImran2005/AI_Book_Hackathon-giaicbook/tree/main/', // Changed to project repo
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
