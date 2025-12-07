@@ -1,0 +1,24 @@
+{
+  "id": "glossary",
+  "title": "Glossary",
+  "description": "This glossary provides definitions for key terms used throughout the \"Physical AI & Humanoid Robotics\" book.",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/docs/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Additional Resources",
+    "permalink": "/docs/appendices/resources"
+  },
+  "next": {
+    "title": "Instructor Guide: Physical AI & Humanoid Robotics",
+    "permalink": "/docs/instructor-guide"
+  }
+}

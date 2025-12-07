@@ -1,0 +1,25 @@
+{
+  "id": "vision-language-action/llm-cognitive-planning",
+  "title": "Chapter 12: LLM Cognitive Planning",
+  "description": "Module 5 hours | Difficulty: Advanced",
+  "source": "@site/docs/04-vision-language-action/12-llm-cognitive-planning.md",
+  "sourceDirName": "04-vision-language-action",
+  "slug": "/vision-language-action/llm-cognitive-planning",
+  "permalink": "/docs/vision-language-action/llm-cognitive-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/04-vision-language-action/12-llm-cognitive-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 11: Voice-to-Action",
+    "permalink": "/docs/vision-language-action/voice-to-action"
+  },
+  "next": {
+    "title": "Chapter 13: Capstone: Autonomous Humanoid",
+    "permalink": "/docs/vision-language-action/capstone-autonomous-humanoid"
+  }
+}

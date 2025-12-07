@@ -1,0 +1,41 @@
+# Dockerfile for ROS 2 Humble Development Environment
+# Based on Ubuntu 22.04 LTS
+
+FROM ros:humble-ros-base-jammy
+
+# Set environment variables for ROS 2
+ENV ROS_DISTRO=humble
+ENV ROS_VERSION=2
+
+# Install common development tools
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    cmake \
+    git \
+    python3-pip \
+    python3-rosdep \
+    vim \
+    curl \
+    htop \
+    net-tools \
+    iputils-ping \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install colcon
+RUN pip install -U colcon-common-extensions
+
+# Initialize rosdep
+RUN rosdep init || true
+RUN rosdep update
+
+# Create a ROS 2 workspace
+WORKDIR /ros2_ws
+RUN mkdir -p src
+
+# Add an entrypoint script to source ROS 2 and the workspace
+COPY ros_entrypoint.sh /usr/local/bin/ros_entrypoint.sh
+RUN chmod +x /usr/local/bin/ros_entrypoint.sh
+ENTRYPOINT ["/usr/local/bin/ros_entrypoint.sh"]
+
+# Default command to run bash
+CMD ["bash"]

@@ -1,0 +1,24 @@
+{
+  "id": "digital-twin/index",
+  "title": "Module 2: The Digital Twin",
+  "description": "Bringing Robots to Life in Simulation",
+  "source": "@site/docs/02-digital-twin/index.md",
+  "sourceDirName": "02-digital-twin",
+  "slug": "/digital-twin/",
+  "permalink": "/docs/digital-twin/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/02-digital-twin/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 4: URDF Robot Modeling",
+    "permalink": "/docs/robotic-nervous-system/urdf-robot-modeling"
+  },
+  "next": {
+    "title": "Chapter 5: Gazebo Fundamentals",
+    "permalink": "/docs/digital-twin/gazebo-fundamentals"
+  }
+}

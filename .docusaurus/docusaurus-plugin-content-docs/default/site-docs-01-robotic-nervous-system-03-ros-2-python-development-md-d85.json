@@ -1,0 +1,25 @@
+{
+  "id": "robotic-nervous-system/ros2-python-development",
+  "title": "Chapter 3: ROS 2 Python Development",
+  "description": "Module 4 hours | Difficulty: Intermediate",
+  "source": "@site/docs/01-robotic-nervous-system/03-ros2-python-development.md",
+  "sourceDirName": "01-robotic-nervous-system",
+  "slug": "/robotic-nervous-system/ros2-python-development",
+  "permalink": "/docs/robotic-nervous-system/ros2-python-development",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/01-robotic-nervous-system/03-ros2-python-development.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 2: ROS 2 Architecture",
+    "permalink": "/docs/robotic-nervous-system/ros2-architecture"
+  },
+  "next": {
+    "title": "Chapter 4: URDF Robot Modeling",
+    "permalink": "/docs/robotic-nervous-system/urdf-robot-modeling"
+  }
+}

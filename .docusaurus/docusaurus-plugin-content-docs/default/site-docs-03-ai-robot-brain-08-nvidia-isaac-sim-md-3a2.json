@@ -1,0 +1,25 @@
+{
+  "id": "ai-robot-brain/nvidia-isaac-sim",
+  "title": "Chapter 8: NVIDIA Isaac Sim",
+  "description": "Module 4 hours | Difficulty: Advanced",
+  "source": "@site/docs/03-ai-robot-brain/08-nvidia-isaac-sim.md",
+  "sourceDirName": "03-ai-robot-brain",
+  "slug": "/ai-robot-brain/nvidia-isaac-sim",
+  "permalink": "/docs/ai-robot-brain/nvidia-isaac-sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/03-ai-robot-brain/08-nvidia-isaac-sim.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Module 3: The AI Robot Brain",
+    "permalink": "/docs/ai-robot-brain/"
+  },
+  "next": {
+    "title": "Chapter 9: Isaac ROS Perception",
+    "permalink": "/docs/ai-robot-brain/isaac-ros-perception"
+  }
+}

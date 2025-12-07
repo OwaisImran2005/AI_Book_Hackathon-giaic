@@ -1,0 +1,25 @@
+{
+  "id": "digital-twin/unity-integration",
+  "title": "Chapter 7: Unity Integration",
+  "description": "Module 4 hours | Difficulty: Advanced",
+  "source": "@site/docs/02-digital-twin/07-unity-integration.md",
+  "sourceDirName": "02-digital-twin",
+  "slug": "/digital-twin/unity-integration",
+  "permalink": "/docs/digital-twin/unity-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/02-digital-twin/07-unity-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 6: Physics Simulation",
+    "permalink": "/docs/digital-twin/physics-simulation"
+  },
+  "next": {
+    "title": "Module 3: The AI Robot Brain",
+    "permalink": "/docs/ai-robot-brain/"
+  }
+}

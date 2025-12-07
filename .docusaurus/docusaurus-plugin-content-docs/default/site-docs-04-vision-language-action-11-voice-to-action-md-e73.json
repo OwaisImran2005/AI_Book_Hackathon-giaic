@@ -1,0 +1,25 @@
+{
+  "id": "vision-language-action/voice-to-action",
+  "title": "Chapter 11: Voice-to-Action",
+  "description": "Module 4 hours | Difficulty: Advanced",
+  "source": "@site/docs/04-vision-language-action/11-voice-to-action.md",
+  "sourceDirName": "04-vision-language-action",
+  "slug": "/vision-language-action/voice-to-action",
+  "permalink": "/docs/vision-language-action/voice-to-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/04-vision-language-action/11-voice-to-action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action",
+    "permalink": "/docs/vision-language-action/"
+  },
+  "next": {
+    "title": "Chapter 12: LLM Cognitive Planning",
+    "permalink": "/docs/vision-language-action/llm-cognitive-planning"
+  }
+}

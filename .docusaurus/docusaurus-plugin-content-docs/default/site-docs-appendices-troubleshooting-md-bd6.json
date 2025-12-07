@@ -1,0 +1,24 @@
+{
+  "id": "appendices/troubleshooting",
+  "title": "Troubleshooting Guide",
+  "description": "This guide provides solutions to common issues encountered while setting up the development environment, running simulations, or implementing the code examples in this book.",
+  "source": "@site/docs/appendices/troubleshooting.md",
+  "sourceDirName": "appendices",
+  "slug": "/appendices/troubleshooting",
+  "permalink": "/docs/appendices/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/appendices/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Hardware Guide",
+    "permalink": "/docs/appendices/hardware-guide"
+  },
+  "next": {
+    "title": "Cloud Setup Guide",
+    "permalink": "/docs/appendices/cloud-setup"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "ai-robot-brain/index",
+              "path": "/docs/ai-robot-brain/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "ai-robot-brain/isaac-ros-perception",
+              "path": "/docs/ai-robot-brain/isaac-ros-perception",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "ai-robot-brain/nav2-path-planning",
+              "path": "/docs/ai-robot-brain/nav2-path-planning",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "ai-robot-brain/nvidia-isaac-sim",
+              "path": "/docs/ai-robot-brain/nvidia-isaac-sim",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "appendices/cloud-setup",
+              "path": "/docs/appendices/cloud-setup",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "appendices/hardware-guide",
+              "path": "/docs/appendices/hardware-guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "appendices/resources",
+              "path": "/docs/appendices/resources",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "appendices/troubleshooting",
+              "path": "/docs/appendices/troubleshooting",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "digital-twin/gazebo-fundamentals",
+              "path": "/docs/digital-twin/gazebo-fundamentals",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "digital-twin/index",
+              "path": "/docs/digital-twin/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "digital-twin/physics-simulation",
+              "path": "/docs/digital-twin/physics-simulation",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "digital-twin/unity-integration",
+              "path": "/docs/digital-twin/unity-integration",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "glossary",
+              "path": "/docs/glossary",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "instructor-guide",
+              "path": "/docs/instructor-guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/index",
+              "path": "/docs/robotic-nervous-system/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/introduction-physical-ai",
+              "path": "/docs/robotic-nervous-system/introduction-physical-ai",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/ros2-architecture",
+              "path": "/docs/robotic-nervous-system/ros2-architecture",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/ros2-python-development",
+              "path": "/docs/robotic-nervous-system/ros2-python-development",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/urdf-robot-modeling",
+              "path": "/docs/robotic-nervous-system/urdf-robot-modeling",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "student-resources/ros2_python_cheat_sheet",
+              "path": "/docs/student-resources/ros2_python_cheat_sheet",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "student-resources/vla_reference_card",
+              "path": "/docs/student-resources/vla_reference_card",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            },
+            {
+              "id": "video_embedding_instructions",
+              "path": "/docs/video_embedding_instructions",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "vision-language-action/capstone-autonomous-humanoid",
+              "path": "/docs/vision-language-action/capstone-autonomous-humanoid",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "vision-language-action/index",
+              "path": "/docs/vision-language-action/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "vision-language-action/llm-cognitive-planning",
+              "path": "/docs/vision-language-action/llm-cognitive-planning",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "vision-language-action/voice-to-action",
+              "path": "/docs/vision-language-action/voice-to-action",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

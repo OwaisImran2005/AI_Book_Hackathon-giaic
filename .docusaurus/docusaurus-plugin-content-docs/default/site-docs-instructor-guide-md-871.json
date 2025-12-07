@@ -1,0 +1,24 @@
+{
+  "id": "instructor-guide",
+  "title": "Instructor Guide: Physical AI & Humanoid Robotics",
+  "description": "This guide provides instructors with resources, teaching notes, and assessment rubrics to effectively deliver the \"Physical AI & Humanoid Robotics: From Simulation to Reality\" course.",
+  "source": "@site/docs/instructor-guide.md",
+  "sourceDirName": ".",
+  "slug": "/instructor-guide",
+  "permalink": "/docs/instructor-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/instructor-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  },
+  "next": {
+    "title": "ROS 2 Python Cheat Sheet",
+    "permalink": "/docs/student-resources/ros2_python_cheat_sheet"
+  }
+}

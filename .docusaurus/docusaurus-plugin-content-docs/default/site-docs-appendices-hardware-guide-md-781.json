@@ -1,0 +1,24 @@
+{
+  "id": "appendices/hardware-guide",
+  "title": "Hardware Guide",
+  "description": "This section provides recommendations for hardware components necessary to follow the tutorials and build the projects in this book.",
+  "source": "@site/docs/appendices/hardware-guide.md",
+  "sourceDirName": "appendices",
+  "slug": "/appendices/hardware-guide",
+  "permalink": "/docs/appendices/hardware-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/appendices/hardware-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 13: Capstone: Autonomous Humanoid",
+    "permalink": "/docs/vision-language-action/capstone-autonomous-humanoid"
+  },
+  "next": {
+    "title": "Hardware Guide",
+    "permalink": "/docs/appendices/hardware-guide"
+  }
+}

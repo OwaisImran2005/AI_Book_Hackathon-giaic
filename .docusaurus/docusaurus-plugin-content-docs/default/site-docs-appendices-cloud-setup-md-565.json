@@ -1,0 +1,24 @@
+{
+  "id": "appendices/cloud-setup",
+  "title": "Cloud Setup Guide",
+  "description": "This guide provides instructions for setting up cloud-based development environments to run the tutorials and projects in this book. This is an alternative if you do not have access to the recommended local hardware.",
+  "source": "@site/docs/appendices/cloud-setup.md",
+  "sourceDirName": "appendices",
+  "slug": "/appendices/cloud-setup",
+  "permalink": "/docs/appendices/cloud-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/appendices/cloud-setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/docs/appendices/troubleshooting"
+  },
+  "next": {
+    "title": "Additional Resources",
+    "permalink": "/docs/appendices/resources"
+  }
+}

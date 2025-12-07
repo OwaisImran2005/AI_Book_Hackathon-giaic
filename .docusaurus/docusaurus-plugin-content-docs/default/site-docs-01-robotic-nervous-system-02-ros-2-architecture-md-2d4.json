@@ -1,0 +1,25 @@
+{
+  "id": "robotic-nervous-system/ros2-architecture",
+  "title": "Chapter 2: ROS 2 Architecture",
+  "description": "Module 3 hours | Difficulty: Beginner",
+  "source": "@site/docs/01-robotic-nervous-system/02-ros2-architecture.md",
+  "sourceDirName": "01-robotic-nervous-system",
+  "slug": "/robotic-nervous-system/ros2-architecture",
+  "permalink": "/docs/robotic-nervous-system/ros2-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/01-robotic-nervous-system/02-ros2-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to Physical AI",
+    "permalink": "/docs/robotic-nervous-system/introduction-physical-ai"
+  },
+  "next": {
+    "title": "Chapter 3: ROS 2 Python Development",
+    "permalink": "/docs/robotic-nervous-system/ros2-python-development"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vision-language-action/capstone-autonomous-humanoid",
+  "title": "Chapter 13: Capstone: Autonomous Humanoid",
+  "description": "Module 6 hours | Difficulty: Expert",
+  "source": "@site/docs/04-vision-language-action/13-capstone-autonomous-humanoid.md",
+  "sourceDirName": "04-vision-language-action",
+  "slug": "/vision-language-action/capstone-autonomous-humanoid",
+  "permalink": "/docs/vision-language-action/capstone-autonomous-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/04-vision-language-action/13-capstone-autonomous-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 12: LLM Cognitive Planning",
+    "permalink": "/docs/vision-language-action/llm-cognitive-planning"
+  },
+  "next": {
+    "title": "Hardware Guide",
+    "permalink": "/docs/appendices/hardware-guide"
+  }
+}

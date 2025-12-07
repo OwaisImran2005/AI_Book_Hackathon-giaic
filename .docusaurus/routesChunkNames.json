@@ -1,0 +1,412 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ai-native-book-docusaurus-debugb-38-107"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ai-native-book-docusaurus-debugb-38-107"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---ai-native-book-docusaurus-debugb-38-107"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---ai-native-book-docusaurus-debugb-38-107"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---ai-native-book-docusaurus-debugb-38-107"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---ai-native-book-docusaurus-debugb-38-107"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---ai-native-book-docusaurus-debugb-38-107"
+    }
+  },
+  "/blog-b2f": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "items": [
+      {
+        "content": "content---ai-native-book-blog-766-88a"
+      },
+      {
+        "content": "content---ai-native-book-blogf-4-f-622"
+      },
+      {
+        "content": "content---ai-native-book-blog-871-68e"
+      },
+      {
+        "content": "content---ai-native-book-blog-925-ba1"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/authors-0b7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ai-native-book-blog-authorsace-d14"
+      },
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/authors/all-sebastien-lorber-articles-4a1": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ai-native-book-blog-authorsace-d14"
+      },
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "items": [
+      {
+        "content": "content---ai-native-book-blog-766-88a"
+      },
+      {
+        "content": "content---ai-native-book-blogf-4-f-622"
+      },
+      {
+        "content": "content---ai-native-book-blog-925-ba1"
+      }
+    ],
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+  },
+  "/blog/authors/yangshun-a68": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ai-native-book-blog-authorsace-d14"
+      },
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "items": [
+      {
+        "content": "content---ai-native-book-blog-766-88a"
+      },
+      {
+        "content": "content---ai-native-book-blog-871-68e"
+      },
+      {
+        "content": "content---ai-native-book-blog-925-ba1"
+      }
+    ],
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+  },
+  "/blog/first-blog-post-89a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ai-native-book-blog-authorsace-d14"
+      },
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "content": "content---ai-native-book-blog-first-blog-poste-27-ffb"
+  },
+  "/blog/long-blog-post-9ad": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ai-native-book-blog-authorsace-d14"
+      },
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "content": "content---ai-native-book-blog-long-blog-post-736-206"
+  },
+  "/blog/mdx-blog-post-e9f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ai-native-book-blog-authorsace-d14"
+      },
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "content": "content---ai-native-book-blog-mdx-blog-post-593-8db"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/docusaurus-704": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "items": [
+      {
+        "content": "content---ai-native-book-blog-766-88a"
+      },
+      {
+        "content": "content---ai-native-book-blogf-4-f-622"
+      },
+      {
+        "content": "content---ai-native-book-blog-871-68e"
+      },
+      {
+        "content": "content---ai-native-book-blog-925-ba1"
+      }
+    ],
+    "__props": "__props---blog-tags-docusaurus-321-832"
+  },
+  "/blog/tags/facebook-858": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "items": [
+      {
+        "content": "content---ai-native-book-blog-766-88a"
+      }
+    ],
+    "__props": "__props---blog-tags-facebooke-5-a-514"
+  },
+  "/blog/tags/hello-299": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "items": [
+      {
+        "content": "content---ai-native-book-blog-766-88a"
+      },
+      {
+        "content": "content---ai-native-book-blog-871-68e"
+      }
+    ],
+    "__props": "__props---blog-tags-hellof-82-2fd"
+  },
+  "/blog/tags/hola-00d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "items": [
+      {
+        "content": "content---ai-native-book-blog-925-ba1"
+      }
+    ],
+    "__props": "__props---blog-tags-hola-5-e-9-9a3"
+  },
+  "/blog/welcome-d2b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ai-native-book-blog-authorsace-d14"
+      },
+      "plugin": "plugin---ai-native-book-blog-369-882"
+    },
+    "sidebar": "sidebar---ai-native-book-blog-814-436",
+    "content": "content---ai-native-book-blog-welcomed-9-f-1f4"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---ai-native-book-markdown-pagea-74-8fa"
+    },
+    "content": "content---ai-native-book-markdown-page-393-2d2"
+  },
+  "/docs-acb": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ai-native-book-docsaba-1b3"
+    }
+  },
+  "/docs-c4d": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-ee1": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/ai-robot-brain/-8f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-ai-robot-brain-052-d87"
+  },
+  "/docs/ai-robot-brain/isaac-ros-perception-bce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-ai-robot-brain-isaac-ros-perception-745-258"
+  },
+  "/docs/ai-robot-brain/nav2-path-planning-6bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-ai-robot-brain-nav-2-path-planningae-8-d24"
+  },
+  "/docs/ai-robot-brain/nvidia-isaac-sim-ff2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-ai-robot-brain-nvidia-isaac-sim-3-a-2-eb6"
+  },
+  "/docs/appendices/cloud-setup-468": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-appendices-cloud-setup-565-bee"
+  },
+  "/docs/appendices/hardware-guide-433": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-appendices-hardware-guide-781-778"
+  },
+  "/docs/appendices/resources-3ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-appendices-resourcesdb-3-d1c"
+  },
+  "/docs/appendices/troubleshooting-430": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-appendices-troubleshootingbd-6-135"
+  },
+  "/docs/digital-twin/-d01": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-digital-twin-e-3-e-f00"
+  },
+  "/docs/digital-twin/gazebo-fundamentals-4c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-digital-twin-gazebo-fundamentals-1-b-9-f5a"
+  },
+  "/docs/digital-twin/physics-simulation-276": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-digital-twin-physics-simulation-595-c1f"
+  },
+  "/docs/digital-twin/unity-integration-13f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-digital-twin-unity-integration-821-7d4"
+  },
+  "/docs/glossary-552": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-glossarye-74-895"
+  },
+  "/docs/instructor-guide-100": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-instructor-guide-871-971"
+  },
+  "/docs/intro-38d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-intro-0-e-3-9c8"
+  },
+  "/docs/robotic-nervous-system/-47d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-robotic-nervous-system-f-22-07d"
+  },
+  "/docs/robotic-nervous-system/introduction-physical-ai-1ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-robotic-nervous-system-introduction-physical-aic-83-a7a"
+  },
+  "/docs/robotic-nervous-system/ros2-architecture-2e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-robotic-nervous-system-ros-2-architecture-2-d-4-61d"
+  },
+  "/docs/robotic-nervous-system/ros2-python-development-965": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-robotic-nervous-system-ros-2-python-developmentd-85-d0b"
+  },
+  "/docs/robotic-nervous-system/urdf-robot-modeling-3c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-robotic-nervous-system-urdf-robot-modeling-4-c-1-a08"
+  },
+  "/docs/student-resources/ros2_python_cheat_sheet-333": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-student-resources-ros-2-python-cheat-sheet-6-a-6-620"
+  },
+  "/docs/student-resources/vla_reference_card-1b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-student-resources-vla-reference-card-6-ab-393"
+  },
+  "/docs/tutorial-basics/congratulations-70e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-tutorial-basics-congratulations-822-f77"
+  },
+  "/docs/tutorial-basics/create-a-blog-post-315": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-tutorial-basics-create-a-blog-post-533-cc4"
+  },
+  "/docs/tutorial-basics/create-a-document-f86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-tutorial-basics-create-a-document-1-e-4-30c"
+  },
+  "/docs/tutorial-basics/create-a-page-9f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-tutorial-basics-create-a-page-5-c-8-7c0"
+  },
+  "/docs/tutorial-basics/deploy-your-site-b91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-tutorial-basics-deploy-your-sitef-55-ece"
+  },
+  "/docs/tutorial-basics/markdown-features-272": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-tutorial-basics-markdown-features-18-c-e0f"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-a34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-tutorial-extras-manage-docs-versionsdff-576"
+  },
+  "/docs/tutorial-extras/translate-your-site-739": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-tutorial-extras-translate-your-sitee-44-828"
+  },
+  "/docs/video_embedding_instructions-b09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-video-embedding-instructions-2-c-4-184"
+  },
+  "/docs/vision-language-action/-663": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-vision-language-action-ddd-982"
+  },
+  "/docs/vision-language-action/capstone-autonomous-humanoid-a55": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-vision-language-action-capstone-autonomous-humanoidda-0-915"
+  },
+  "/docs/vision-language-action/llm-cognitive-planning-281": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-vision-language-action-llm-cognitive-planningc-65-fee"
+  },
+  "/docs/vision-language-action/voice-to-action-796": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-native-book-docs-vision-language-action-voice-to-actione-73-52b"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---ai-native-book-markdown-pagea-74-8fa"
+    },
+    "config": "config---ai-native-book-5-e-9-219"
+  }
+}

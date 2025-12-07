@@ -1,0 +1,24 @@
+{
+  "id": "appendices/resources",
+  "title": "Additional Resources",
+  "description": "This section provides a curated list of external resources to deepen your understanding and explore advanced topics related to Physical AI and humanoid robotics.",
+  "source": "@site/docs/appendices/resources.md",
+  "sourceDirName": "appendices",
+  "slug": "/appendices/resources",
+  "permalink": "/docs/appendices/resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/appendices/resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Cloud Setup Guide",
+    "permalink": "/docs/appendices/cloud-setup"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  }
+}

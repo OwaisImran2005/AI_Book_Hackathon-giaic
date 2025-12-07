@@ -1,0 +1,24 @@
+{
+  "id": "vision-language-action/index",
+  "title": "Module 4: Vision-Language-Action",
+  "description": "Unleashing Cognitive Robotics",
+  "source": "@site/docs/04-vision-language-action/index.md",
+  "sourceDirName": "04-vision-language-action",
+  "slug": "/vision-language-action/",
+  "permalink": "/docs/vision-language-action/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/04-vision-language-action/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 10: Nav2 Path Planning",
+    "permalink": "/docs/ai-robot-brain/nav2-path-planning"
+  },
+  "next": {
+    "title": "Chapter 11: Voice-to-Action",
+    "permalink": "/docs/vision-language-action/voice-to-action"
+  }
+}

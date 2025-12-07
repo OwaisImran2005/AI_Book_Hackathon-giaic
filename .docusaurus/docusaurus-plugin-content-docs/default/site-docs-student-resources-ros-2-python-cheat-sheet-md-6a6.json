@@ -1,0 +1,24 @@
+{
+  "id": "student-resources/ros2_python_cheat_sheet",
+  "title": "ROS 2 Python Cheat Sheet",
+  "description": "This cheat sheet provides a quick reference for common ROS 2 commands and Python code snippets.",
+  "source": "@site/docs/student-resources/ros2_python_cheat_sheet.md",
+  "sourceDirName": "student-resources",
+  "slug": "/student-resources/ros2_python_cheat_sheet",
+  "permalink": "/docs/student-resources/ros2_python_cheat_sheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/student-resources/ros2_python_cheat_sheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Instructor Guide: Physical AI & Humanoid Robotics",
+    "permalink": "/docs/instructor-guide"
+  },
+  "next": {
+    "title": "Vision-Language-Action (VLA) Reference Card",
+    "permalink": "/docs/student-resources/vla_reference_card"
+  }
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="mobile_robot">
+
+  <xacro:include filename="$(find my_robot_description)/xacro/mobile_base.xacro"/>
+
+  <!-- Add Gazebo Plugins -->
+  <gazebo>
+    <plugin name="differential_drive_controller" filename="libgazebo_ros_diff_drive.so">
+      <ros>
+        <namespace>/</namespace>
+      </ros>
+      <left_joint>left_wheel_joint</left_joint>
+      <right_joint>right_wheel_joint</right_joint>
+      <wheel_separation>${2*(base_radius + 0.01)}</wheel_separation>
+      <wheel_radius>${wheel_radius}</wheel_radius>
+      <wheel_torque>20</wheel_torque>
+      <wheel_acceleration>1.0</wheel_acceleration>
+      <command_topic>cmd_vel</command_topic>
+      <odometry_topic>odom</odometry_topic>
+      <odometry_frame>odom</odometry_frame>
+      <robot_base_frame>base_link</robot_base_frame>
+    </plugin>
+  </gazebo>
+
+  <gazebo reference="range_sensor_link">
+    <sensor type="ray" name="front_range_sensor">
+      <pose>0 0 0 0 0 0</pose>
+      <visualize>true</visualize>
+      <update_rate>10</update_rate>
+      <ray>
+        <scan>
+          <horizontal>
+            <samples>1</samples>
+            <resolution>1</resolution>
+            <min_angle>0</min_angle>
+            <max_angle>0</max_angle>
+          </horizontal>
+          <vertical>
+            <samples>1</samples>
+            <resolution>1</resolution>
+            <min_angle>0</min_angle>
+            <max_angle>0</max_angle>
+          </vertical>
+        </scan>
+        <range>
+          <min>0.1</min>
+          <max>5.0</max>
+          <resolution>0.02</resolution>
+        </range>
+      </ray>
+      <plugin name="gazebo_ros_ray_sensor_controller" filename="libgazebo_ros_ray_sensor.so">
+        <ros>
+          <argument>~/out</argument>
+          <namespace>range_sensor</namespace>
+        </ros>
+        <output_type>sensor_msgs/Range</output_type>
+        <frame_name>range_sensor_link</frame_name>
+      </plugin>
+    </sensor>
+  </gazebo>
+
+</robot>

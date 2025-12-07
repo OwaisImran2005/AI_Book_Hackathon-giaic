@@ -1,0 +1,20 @@
+{
+  "id": "video_embedding_instructions",
+  "title": "Video Embedding Instructions",
+  "description": "This document provides instructions on how to embed video demonstrations into the Docusaurus documentation. This task is to be completed after the video demonstrations have been recorded and edited (Task T085) and are available in the static/videos/ directory.",
+  "source": "@site/docs/video_embedding_instructions.md",
+  "sourceDirName": ".",
+  "slug": "/video_embedding_instructions",
+  "permalink": "/docs/video_embedding_instructions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/video_embedding_instructions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Vision-Language-Action (VLA) Reference Card",
+    "permalink": "/docs/student-resources/vla_reference_card"
+  }
+}

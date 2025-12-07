@@ -1,0 +1,24 @@
+{
+  "id": "ai-robot-brain/index",
+  "title": "Module 3: The AI Robot Brain",
+  "description": "Perception and Navigation with NVIDIA Isaac",
+  "source": "@site/docs/03-ai-robot-brain/index.md",
+  "sourceDirName": "03-ai-robot-brain",
+  "slug": "/ai-robot-brain/",
+  "permalink": "/docs/ai-robot-brain/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/03-ai-robot-brain/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 7: Unity Integration",
+    "permalink": "/docs/digital-twin/unity-integration"
+  },
+  "next": {
+    "title": "Chapter 8: NVIDIA Isaac Sim",
+    "permalink": "/docs/ai-robot-brain/nvidia-isaac-sim"
+  }
+}

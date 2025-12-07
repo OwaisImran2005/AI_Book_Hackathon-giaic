@@ -1,0 +1,25 @@
+{
+  "id": "robotic-nervous-system/urdf-robot-modeling",
+  "title": "Chapter 4: URDF Robot Modeling",
+  "description": "Module 4 hours | Difficulty: Intermediate",
+  "source": "@site/docs/01-robotic-nervous-system/04-urdf-robot-modeling.md",
+  "sourceDirName": "01-robotic-nervous-system",
+  "slug": "/robotic-nervous-system/urdf-robot-modeling",
+  "permalink": "/docs/robotic-nervous-system/urdf-robot-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/01-robotic-nervous-system/04-urdf-robot-modeling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 3: ROS 2 Python Development",
+    "permalink": "/docs/robotic-nervous-system/ros2-python-development"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin",
+    "permalink": "/docs/digital-twin/"
+  }
+}

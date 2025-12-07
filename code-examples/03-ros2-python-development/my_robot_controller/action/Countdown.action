@@ -1,0 +1,7 @@
+# action/Countdown.action
+int32 target_count
+---
+int32 final_count
+bool success
+---
+int32 current_progress
