@@ -132,7 +132,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/OwaisImran2005/AI_Book_Hackathon-giaic/tree/main/',
             },
           ],
         },
