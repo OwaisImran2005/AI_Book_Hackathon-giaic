@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Physical AI & Humanoid Robotics: From Simulation to Reality",
-  "tagline": "A comprehensive guide to building intelligent embodied systems.",
+  "tagline": "Architecting the Next Generation of Intelligent Physical Systems",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -47,7 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/"
+          "editUrl": "https://github.com/OwaisImran2005/AI_Book_Hackathon-giaic/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -58,7 +58,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/",
+          "editUrl": "https://github.com/OwaisImran2005/AI_Book_Hackathon-giaic/tree/main/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -90,12 +90,7 @@ export default {
           "label": "Docs"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/specifykit/ai-native-book",
+          "href": "https://github.com/OwaisImran2005/AI_Book_Hackathon-giaic/tree/main/",
           "label": "GitHub",
           "position": "right"
         }
@@ -103,7 +98,7 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "links": [
         {
           "title": "Docs",
@@ -118,16 +113,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://discord.com/users/1082757612220711012"
             },
             {
-              "label": "X",
-              "href": "https://x.com/docusaurus"
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/in/muhammad-owais-imran-76a702347/"
             }
           ]
         },
@@ -135,17 +126,13 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/OwaisImran2005/AI_Book_Hackathon-giaic/tree/main/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 SpecifyKit. Built with Docusaurus."
+      "copyright": "Copyright © Published by Muhammad Owais Imran."
     },
     "prism": {
       "theme": {

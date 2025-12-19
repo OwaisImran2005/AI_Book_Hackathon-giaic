@@ -1,30 +1,72 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * PROFESSIONAL AI TECH THEME
  */
 
-/* You can override the default Infima variables here. */
+/* LIGHT MODE - Clean & Professional */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #2563eb; /* Professional Blue */
+  --ifm-color-primary-dark: #1d4ed8;
+  --ifm-color-primary-darker: #1e40af;
+  --ifm-color-primary-darkest: #1e3a8a;
+  --ifm-color-primary-light: #3b82f6;
+  --ifm-color-primary-lighter: #60a5fa;
+  --ifm-color-primary-lightest: #93c5fd;
+  
+  --ifm-background-color: #ffffff;
+  --ifm-font-color-base: #1e293b; /* Deep Slate Gray for readability */
+  --ifm-heading-color: #0f172a;    /* Near black for headings */
+  
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* DARK MODE - Modern AI/Tech Aesthetic */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #22d3ee; /* Electric Cyan (AI vibe) */
+  --ifm-color-primary-dark: #0891b2;
+  --ifm-color-primary-darker: #0e7490;
+  --ifm-color-primary-darkest: #155e75;
+  --ifm-color-primary-light: #67e8f9;
+  --ifm-color-primary-lighter: #a5f3fc;
+  --ifm-color-primary-lightest: #cffafe;
+
+  --ifm-background-color: #0f172a; /* Deep Midnight Blue/Slate */
+  --ifm-font-color-base: #e2e8f0;    /* Soft White/Gray */
+  --ifm-heading-color: #f8fafc;     /* Bright White for headings */
+  
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom Header Styling for that "Hackathon" feel */
+.hero--primary {
+  background: linear-gradient(135deg, #1f3e92 0%, #0850ec 100%);
+  color: #ffffff;
+}
+
+[data-theme='dark'] .hero--primary {
+  background: linear-gradient(135deg, #1e5b74 0%, #08d1d8 100%);
+  border-bottom: 1px solid #22d3ee;
+}
+
+
+
+
+
+.footer {
+  background-color: #000000 !important; 
+  color: #94a3b8 !important;
+}
+
+.footer__title {
+  color: #22d3ee !important; 
+  font-weight: bold;
+}
+
+.footer__link-item {
+  color: #e2e8f0 !important;
+}
+
+.footer__link-item:hover {
+  color: #22d3ee !important;
+  text-decoration: none;
 }

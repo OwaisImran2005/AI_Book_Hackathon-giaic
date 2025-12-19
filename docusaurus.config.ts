@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Physical AI & Humanoid Robotics: From Simulation to Reality',
-  tagline: 'A comprehensive guide to building intelligent embodied systems.',
+  tagline: 'Architecting the Next Generation of Intelligent Physical Systems',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -86,7 +86,6 @@ const config: Config = {
           position: 'left',
           label: 'Docs', // Changed label to Docs
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/OwaisImran2005/AI_Book_Hackathon-giaic/tree/main/', // Changed to project repo
           label: 'GitHub',
@@ -95,7 +94,7 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
           title: 'Docs',
@@ -110,16 +109,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.com/users/1082757612220711012',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Linkedin',
+              href: 'https://www.linkedin.com/in/muhammad-owais-imran-76a702347/',
             },
           ],
         },
@@ -127,17 +122,13 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
               href: 'https://github.com/OwaisImran2005/AI_Book_Hackathon-giaic/tree/main/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SpecifyKit. Published by Muhammad Owais Imran.`,
+      copyright: `Copyright © Published by Muhammad Owais Imran.`,
     },
     prism: {
       theme: prismThemes.github,
