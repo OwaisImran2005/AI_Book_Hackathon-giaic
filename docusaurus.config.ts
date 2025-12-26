@@ -15,13 +15,12 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://ai-native-book-orcin.vercel.app', // Placeholder for GitHub Pages deployment
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/', // For GitHub Pages deployment, adjust as needed
+  url: 'https://ai-native-book-orcin.vercel.app', 
+  
+  baseUrl: '/', 
 
   // GitHub pages deployment config.
-  organizationName: 'specifykit', // Usually your GitHub org/user name.
+  organizationName: 'OwaisImran', // Usually your GitHub org/user name.
   projectName: 'ai-native-book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -97,10 +96,10 @@ const config: Config = {
       style: 'light',
       links: [
         {
-          title: 'Docs',
+          title: 'Modules',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Docs',
               to: '/docs/intro',
             },
           ],

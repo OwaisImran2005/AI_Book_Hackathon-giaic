@@ -30,7 +30,7 @@ export default {
   },
   "url": "https://ai-native-book-orcin.vercel.app",
   "baseUrl": "/",
-  "organizationName": "specifykit",
+  "organizationName": "OwaisImran",
   "projectName": "ai-native-book",
   "onBrokenLinks": "throw",
   "i18n": {
@@ -101,10 +101,10 @@ export default {
       "style": "light",
       "links": [
         {
-          "title": "Docs",
+          "title": "Modules",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Docs",
               "to": "/docs/intro"
             }
           ]
