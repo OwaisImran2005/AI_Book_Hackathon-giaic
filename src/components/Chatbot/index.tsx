@@ -52,8 +52,9 @@ export default function Chatbot() {
     setIsLoading(true);
 
     try {
-      // Call the backend API
-      const response = await fetch('http://localhost:8000/chat', {
+      // Call the backend API - use environment variable for production
+      const apiBaseUrl = process.env.REACT_APP_API_URL || process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+      const response = await fetch(`${apiBaseUrl}/chat`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
