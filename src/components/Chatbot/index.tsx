@@ -174,7 +174,7 @@ export default function Chatbot() {
             <input
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              placeholder="Ask about ROS 2, Gazebo, Isaac Sim, or robotics..."
+              placeholder="Ask me anything about the book..."
               onKeyDown={handleKeyDown}
               disabled={isLoading}
               autoFocus
